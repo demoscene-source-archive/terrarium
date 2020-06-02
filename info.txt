@@ -1,0 +1,7 @@
+terrarium
+4 kilobyte demo from fizzer & noby
+code and visuals by fizzer
+music and additional design by noby
+used: Crinkler, 4klang
+shader was lightly minified with a shell script because there are
+currently no shader minififers that support compute shaders :(
